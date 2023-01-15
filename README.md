@@ -55,4 +55,7 @@
   <a href="mailto:saydazimova.ar@mail.ru">
     <img width="50px" src="https://cdn-icons-png.flaticon.com/512/5949/5949370.png" />
   </a>
+  <a href="https://spb.hh.ru/applicant/resumes/view?resume=618b1848ff07c0d0b10039ed1f756233617371">
+    <img width="50px" src="https://cdn-icons-png.flaticon.com/512/6361/6361827.png" />
+  </a>
 </div>
