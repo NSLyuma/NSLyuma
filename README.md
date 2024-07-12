@@ -38,14 +38,6 @@
 </div>
 <hr />
 
-<h3 align="center">My stats</h3>
-<p align="center">
-  <img src="https://readme-stats-six-azure.vercel.app/api?username=NSLyuma&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://readme-stats-six-azure.vercel.app/api/top-langs/?username=NSLyuma&layout=compact" />
-</p>
-<hr />
-
 <h3 align="center">✉ Contact me ✉</h3>
 <br />
 <div align="center">
